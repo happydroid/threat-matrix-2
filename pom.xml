@@ -154,6 +154,11 @@
          <artifactId>commons-compress</artifactId>
          <version>1.24.0</version>
       </dependency>
+      <dependency>
+         <groupId>net.minidev</groupId>
+         <artifactId>json-smart</artifactId>
+         <version>2.5.1</version>
+      </dependency>
    </dependencies>
 
     <build>
