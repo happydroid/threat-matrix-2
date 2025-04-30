@@ -154,7 +154,12 @@
          <artifactId>commons-compress</artifactId>
          <version>1.24.0</version>
       </dependency>
-   </dependencies>
+   		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.13.1</version>
+		</dependency>
+</dependencies>
 
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
